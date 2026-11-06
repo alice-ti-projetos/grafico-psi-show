@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ac774a12-3841-487d-a5bd-44e510482a0f
+
 # grafico-psi
 
 Este é o **Gráfico Psi**, um app para desktop para pessoas que querem criar gráficos de uma forma rápida e fácil.
